@@ -1,10 +1,5 @@
 # ❤️ Customer Satisfaction & Loyalty Analytics – OmniRetail
 
-**Project:** Customer Satisfaction and Loyalty Analytics  
-**Dataset:** OmniRetail (Onyx Data) — 2024 customer feedback  
-**Author:** Rohini Singh  
-**Last updated:** September 10, 2025 — 03:23 PM IST
-
 ## 1. Introduction
 This project analyzes customer satisfaction and loyalty for OmniRetail, a U.S. retail chain focusing on electronics and smart home products. Using 2024 customer feedback, purchase history, support interactions, demographics, and location data, the project produces actionable insights to improve retention and satisfaction.
 
