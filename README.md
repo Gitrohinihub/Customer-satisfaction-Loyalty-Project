@@ -48,9 +48,8 @@ OmniRetail faced gaps in product experience, support accessibility, and demograp
 - Regional variance: Texas ~5.08 (low) vs Illinois ~7.0 (high).
 
 Report pages : 
-![]()
-![]()
-![]()
+![](https://github.com/Gitrohinihub/Customer-satisfaction-Loyalty-Project/blob/bf0d5b3a167c0cc499a2a1777bd3a849daa34126/page%201.png)
+![](https://github.com/Gitrohinihub/Customer-satisfaction-Loyalty-Project/blob/bf0d5b3a167c0cc499a2a1777bd3a849daa34126/page%202.png)
 
 ## 7. Business Problems Solved
 - Identified inconsistent feedback and regional dips (e.g., Texas) to reduce churn risk.  
@@ -92,8 +91,8 @@ Report pages :
 - Excel / SQL (preprocessing as needed)
 
 ## 10. Outputs
-- **Interactive Power BI dashboard** — (link placeholder / PBIX in repo)  
-- **PDF report** — (PDF summary export in `/reports`)  
+- **Interactive Power BI dashboard** — [](https://app.powerbi.com/links/W70nzl1OJ7?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare)  
+- **PDF report** — [](https://github.com/Gitrohinihub/Customer-satisfaction-Loyalty-Project/blob/a2d5849e90f84945d99b8aa5285bef03957f574a/DNA%20Data%20Challenge%20(1).pdf)  
 
 ## 11. Challenges Faced
 - Inconsistent or missing location values required manual normalization and fuzzy matching for accurate geographic aggregation.
