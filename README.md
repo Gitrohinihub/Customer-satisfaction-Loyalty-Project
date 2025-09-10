@@ -86,8 +86,8 @@ Report pages :
 - Excel / SQL (preprocessing as needed)
 
 ## 10. Outputs
-- **Interactive Power BI dashboard** — [](https://app.powerbi.com/links/W70nzl1OJ7?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare)  
-- **PDF report** — [](https://github.com/Gitrohinihub/Customer-satisfaction-Loyalty-Project/blob/a2d5849e90f84945d99b8aa5285bef03957f574a/DNA%20Data%20Challenge%20(1).pdf)  
+- **Interactive Power BI dashboard** — [Link](https://app.powerbi.com/links/W70nzl1OJ7?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare)  
+- **report** — [PDF](https://github.com/Gitrohinihub/Customer-satisfaction-Loyalty-Project/blob/a2d5849e90f84945d99b8aa5285bef03957f574a/DNA%20Data%20Challenge%20(1).pdf)  
 
 ## 11. Challenges Faced
 - Inconsistent or missing location values required manual normalization and fuzzy matching for accurate geographic aggregation.
